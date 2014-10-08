@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:12.04
 ENV MYSQLTMPROOT temprootpass
 
 # Run upgrades
